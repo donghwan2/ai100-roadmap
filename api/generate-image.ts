@@ -1,38 +1,22 @@
-import OpenAI from "openai";
-
-function parseBody(req: any): Promise<any> {
-  return new Promise((resolve) => {
-    if (req.body && typeof req.body === "object") {
-      return resolve(req.body);
-    }
-    let raw = "";
-    req.on("data", (chunk: any) => { raw += chunk; });
-    req.on("end", () => {
-      try { resolve(JSON.parse(raw)); } catch { resolve({}); }
-    });
-  });
-}
-
 export default async function handler(req: any, res: any) {
   if (req.method !== "POST") {
     return res.status(405).json({ error: "Method not allowed" });
   }
 
-  const body = await parseBody(req);
-  const { prompt } = body;
-
-  if (!prompt) {
-    return res.status(400).json({ error: "Prompt is required" });
-  }
-
-  const apiKey = process.env.OPENAI_API_KEY;
-  if (!apiKey) {
-    return res.status(500).json({
-      error: "OPENAI_API_KEY is not configured. Vercel 대시보드 → Settings → Environment Variables에서 OPENAI_API_KEY를 추가하고 Redeploy 하세요.",
-    });
-  }
-
   try {
+    const body = typeof req.body === "string" ? JSON.parse(req.body) : (req.body ?? {});
+    const { prompt } = body;
+
+    if (!prompt) {
+      return res.status(400).json({ error: "Prompt is required" });
+    }
+
+    const apiKey = process.env.OPENAI_API_KEY;
+    if (!apiKey) {
+      return res.status(500).json({ error: "OPENAI_API_KEY is not configured" });
+    }
+
+    const { default: OpenAI } = await import("openai");
     const openai = new OpenAI({ apiKey });
 
     const response = await openai.images.generate({
@@ -53,9 +37,9 @@ export default async function handler(req: any, res: any) {
       return res.json({ image: url });
     }
 
-    return res.status(500).json({ error: "OpenAI에서 이미지가 반환되지 않았습니다." });
+    return res.status(500).json({ error: "No image returned from OpenAI" });
   } catch (error: any) {
-    console.error("OpenAI error:", error);
-    return res.status(500).json({ error: error.message || "이미지 생성에 실패했습니다." });
+    console.error("generate-image error:", error);
+    return res.status(500).json({ error: error.message || "Failed to generate image" });
   }
 }

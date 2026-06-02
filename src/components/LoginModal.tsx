@@ -27,6 +27,9 @@ export default function LoginModal({ isOpen, onClose }: LoginModalProps) {
       provider: 'google',
       options: {
         redirectTo: window.location.origin,
+        queryParams: {
+          prompt: 'select_account',
+        },
       },
     })
   }

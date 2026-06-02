@@ -1,0 +1,42 @@
+[
+  {
+    "character": "강아지",
+    "description": "an adorable cartoon puppy character, fluffy fur, chibi style, pastel colors, white background"
+  },
+  {
+    "character": "고양이",
+    "description": "a charming cartoon cat character, sleek fur, chibi style, soft colors, white background"
+  },
+  {
+    "character": "토끼",
+    "description": "a sweet cartoon bunny character with long floppy ears, rosy cheeks, chibi style, pastel pink and white tones, white background"
+  },
+  {
+    "character": "판다",
+    "description": "a lovable cartoon panda character with classic black and white markings, chibi style, minimalist colors, white background"
+  },
+  {
+    "character": "사자",
+    "description": "a majestic yet cute cartoon lion character with a fluffy mane, chibi style, golden tones, white background"
+  },
+  {
+    "character": "펭귄",
+    "description": "an adorable cartoon penguin character, chibi style, black white and blue colors, white background"
+  },
+  {
+    "character": "곰",
+    "description": "a cozy cartoon bear character with a round belly, chibi style, warm brown tones, white background"
+  },
+  {
+    "character": "여우",
+    "description": "a clever cartoon fox character with a bushy tail, chibi style, orange and white fur, white background"
+  },
+  {
+    "character": "햄스터",
+    "description": "a tiny adorable cartoon hamster character with fluffy cheeks and round body, chibi style, soft beige and cream fur, pastel colors, white background"
+  },
+  {
+    "character": "쿼카",
+    "description": "a cheerful cartoon quokka character with tiny paws, chibi style, warm brown fur, pastel colors, white background"
+  }
+]

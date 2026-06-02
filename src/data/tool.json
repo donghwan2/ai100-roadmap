@@ -1,0 +1,102 @@
+[
+  {
+    "tool": "챗gpt",
+    "purpose": "기획, 이미지, 상세페이지, 딥리서치"
+  },
+  {
+    "tool": "제미나이",
+    "purpose": "기획, 이미지, ppt, 딥리서치"
+  },
+  {
+    "tool": "클로드",
+    "purpose": "기획, ppt, 딥리서치"
+  },
+  {
+    "tool": "퍼플렉시티",
+    "purpose": "검색"
+  },
+  {
+    "tool": "미드저니",
+    "purpose": "이미지"
+  },
+  {
+    "tool": "ImageFX",
+    "purpose": "이미지"
+  },
+  {
+    "tool": "Whisk",
+    "purpose": "이미지"
+  },
+  {
+    "tool": "Flow",
+    "purpose": "이미지, 영상"
+  },
+  {
+    "tool": "Leonardo.ai",
+    "purpose": "이미지"
+  },
+  {
+    "tool": "그록",
+    "purpose": "이미지"
+  },
+  {
+    "tool": "포토샵",
+    "purpose": "이미지"
+  },
+  {
+    "tool": "manus",
+    "purpose": "일러스트"
+  },
+  {
+    "tool": "냅킨ai",
+    "purpose": "차트 도식화"
+  },
+  {
+    "tool": "Gamma",
+    "purpose": "카드뉴스, ppt"
+  },
+  {
+    "tool": "노트북LM",
+    "purpose": "딥리서치, ppt, 인포그래픽, 마인드맵"
+  },
+  {
+    "tool": "미리캔버스",
+    "purpose": "카드뉴스, 상세페이지"
+  },
+  {
+    "tool": "런웨이",
+    "purpose": "영상"
+  },
+  {
+    "tool": "클링",
+    "purpose": "영상"
+  },
+  {
+    "tool": "hailuo",
+    "purpose": "영상"
+  },
+  {
+    "tool": "일레븐랩스",
+    "purpose": "음성"
+  },
+  {
+    "tool": "타입캐스트",
+    "purpose": "음성"
+  },
+  {
+    "tool": "Suno",
+    "purpose": "음성"
+  },
+  {
+    "tool": "Capcut",
+    "purpose": "영상 편집"
+  },
+  {
+    "tool": "클로드 코드",
+    "purpose": "바이브코딩"
+  },
+  {
+    "tool": "ai studio",
+    "purpose": "바이브코딩"
+  }
+]

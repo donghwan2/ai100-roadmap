@@ -1,0 +1,202 @@
+[
+  {
+    "role": "디자인&영상",
+    "interest": "정적 콘텐츠",
+    "course": "비주얼 아티스트(Visual Artist)",
+    "course_desc_en": "emotional, with expressive eyes and a soft pastel atmosphere, holding a paintbrush and sketchbook, chibi style, aesthetic lighting, pastel colors, white background",
+    "course_desc_ko": "감성적인 분위기, 표현력 있는 눈빛과 부드러운 파스텔 감성, 붓과 스케치북을 들고 있는, 치비 스타일, 감성 조명, 파스텔 컬러, 흰색 배경",
+    "trait": "디자인적인"
+  },
+  {
+    "role": "디자인&영상",
+    "interest": "동적 콘텐츠",
+    "course": "비주얼 스토리텔러(Visual Storyteller)",
+    "course_desc_en": "cinematic and dynamic, holding a vintage camera with an energetic pose, colorful scarf, vibrant atmosphere, chibi style, white background",
+    "course_desc_ko": "영화 같은 분위기와 역동적인 포즈, 빈티지 카메라를 들고 있는, 화려한 스카프와 생동감 있는 분위기, 치비 스타일, 흰색 배경",
+    "trait": "사나운"
+  },
+  {
+    "role": "디자인&영상",
+    "interest": "데이터&기획",
+    "course": "크리에이티브 애널리스트(Creative Analyst)",
+    "course_desc_en": "intelligent and analytical, wearing glowing glasses with hologram charts floating around, modern creative atmosphere, chibi style, white background",
+    "course_desc_ko": "지적이고 분석적인 분위기, 빛나는 안경과 홀로그램 차트가 떠다니는 모습, 현대적인 크리에이티브 감성, 치비 스타일, 흰색 배경",
+    "trait": "영리한"
+  },
+  {
+    "role": "디자인&영상",
+    "interest": "투자",
+    "course": "리치 아티스트(Rich Artist)",
+    "course_desc_en": "luxurious and elegant, surrounded by glowing art frames and gold coins, premium creative atmosphere, chibi style, white background",
+    "course_desc_ko": "고급스럽고 우아한 분위기, 빛나는 아트 프레임과 금화가 강조된 모습, 프리미엄 감성, 치비 스타일, 흰색 배경",
+    "trait": "예리한"
+  },
+  {
+    "role": "디자인&영상",
+    "interest": "코딩",
+    "course": "테크니컬 아티스트(Technical Artist)",
+    "course_desc_en": "futuristic and cyber-inspired, using holographic UI and digital tools, precise technical atmosphere, chibi style, pastel colors, white background",
+    "course_desc_ko": "미래적이고 사이버 감성의 분위기, 홀로그램 UI와 디지털 도구를 사용하는 모습, 정교한 기술 감성, 치비 스타일, 파스텔 컬러, 흰색 배경",
+    "trait": "정교한"
+  },
+  {
+    "role": "영업&마케팅",
+    "interest": "정적 콘텐츠",
+    "course": "브랜드 비주얼라이저(Brand Visualizer)",
+    "course_desc_en": "stylish and sophisticated, surrounded by floating logos and color palettes, elegant branding atmosphere, chibi style, pastel tones, white background",
+    "course_desc_ko": "세련되고 감각적인 분위기, 로고와 컬러 팔레트가 떠다니는 모습, 우아한 브랜딩 감성, 치비 스타일, 파스텔 톤, 흰색 배경",
+    "trait": "우아한"
+  },
+  {
+    "role": "영업&마케팅",
+    "interest": "동적 콘텐츠",
+    "course": "미디어 마케터(Media Marketer)",
+    "course_desc_en": "energetic and lively, using social media screens and a megaphone, vibrant and active atmosphere, chibi style, bright pastel colors, white background",
+    "course_desc_ko": "활기차고 에너지 넘치는 분위기, SNS 화면과 메가폰을 사용하는 모습, 밝고 역동적인 감성, 치비 스타일, 밝은 파스텔 컬러, 흰색 배경",
+    "trait": "재빠른"
+  },
+  {
+    "role": "영업&마케팅",
+    "interest": "데이터&기획",
+    "course": "그로스 마케터(Growth Marketer)",
+    "course_desc_en": "ambitious and confident, with rising graphs and rocket icons, modern growth-oriented atmosphere, chibi style, white background",
+    "course_desc_ko": "야망 있고 자신감 넘치는 분위기, 상승 그래프와 로켓 아이콘이 강조된 모습, 성장 중심 감성, 치비 스타일, 흰색 배경",
+    "trait": "집요한"
+  },
+  {
+    "role": "영업&마케팅",
+    "interest": "투자",
+    "course": "퍼포먼스 마케터(Performance Marketer)",
+    "course_desc_en": "sharp and strategic, analyzing ad dashboards and performance data, sleek digital atmosphere, chibi style, white background",
+    "course_desc_ko": "날카롭고 전략적인 분위기, 광고 대시보드와 성과 데이터를 분석하는 모습, 세련된 디지털 감성, 치비 스타일, 흰색 배경",
+    "trait": "날카로운"
+  },
+  {
+    "role": "영업&마케팅",
+    "interest": "코딩",
+    "course": "마테크 스페셜리스트(MarTech Specialist)",
+    "course_desc_en": "automated and futuristic, using glowing coding screens and digital marketing tools, cyber atmosphere, chibi style, white background",
+    "course_desc_ko": "자동화되고 미래적인 분위기, 빛나는 코딩 화면과 디지털 마케팅 도구를 사용하는 모습, 사이버 감성, 치비 스타일, 흰색 배경",
+    "trait": "치밀한"
+  },
+  {
+    "role": "기획&데이터분석",
+    "interest": "정적 콘텐츠",
+    "course": "데이터 비주얼라이저(Data Visualizer)",
+    "course_desc_en": "calm and elegant, creating colorful infographics and data charts, visually refined atmosphere, chibi style, pastel colors, white background",
+    "course_desc_ko": "차분하고 우아한 분위기, 화려한 인포그래픽과 데이터 차트를 생성하는 모습, 세련된 시각 감성, 치비 스타일, 파스텔 컬러, 흰색 배경",
+    "trait": "차분한"
+  },
+  {
+    "role": "기획&데이터분석",
+    "interest": "동적 콘텐츠",
+    "course": "미디어 데이터 기획자(Media Data Planner)",
+    "course_desc_en": "strategic and intelligent, organizing media dashboards and schedules, clean data-driven atmosphere, chibi style, white background",
+    "course_desc_ko": "전략적이고 지적인 분위기, 미디어 대시보드와 일정을 관리하는 모습, 깔끔한 데이터 중심 감성, 치비 스타일, 흰색 배경",
+    "trait": "유연한"
+  },
+  {
+    "role": "기획&데이터분석",
+    "interest": "데이터&기획",
+    "course": "데이터 스트래티지스트(Data Strategist)",
+    "course_desc_en": "wise and analytical, controlling hologram data maps and business charts, futuristic strategic atmosphere, chibi style, white background",
+    "course_desc_ko": "현명하고 분석적인 분위기, 홀로그램 데이터 맵과 비즈니스 차트를 제어하는 모습, 미래적인 전략 감성, 치비 스타일, 흰색 배경",
+    "trait": "냉철한"
+  },
+  {
+    "role": "기획&데이터분석",
+    "interest": "투자",
+    "course": "인베스트먼트 애널리스트(Investment Analyst)",
+    "course_desc_en": "serious and insightful, surrounded by stock charts and glowing finance elements, premium business atmosphere, chibi style, white background",
+    "course_desc_ko": "진지하고 통찰력 있는 분위기, 주식 차트와 빛나는 금융 요소가 강조된 모습, 프리미엄 비즈니스 감성, 치비 스타일, 흰색 배경",
+    "trait": "통찰력 있는"
+  },
+  {
+    "role": "기획&데이터분석",
+    "interest": "코딩",
+    "course": "데이터 사이언티스트(Data Scientist)",
+    "course_desc_en": "genius and futuristic, using AI holograms and coding interfaces, advanced technology atmosphere, chibi style, neon pastel colors, white background",
+    "course_desc_ko": "천재적이고 미래적인 분위기, AI 홀로그램과 코딩 인터페이스를 사용하는 모습, 첨단 기술 감성, 치비 스타일, 네온 파스텔 컬러, 흰색 배경",
+    "trait": "호기심 많은"
+  },
+  {
+    "role": "IT&개발",
+    "interest": "정적 콘텐츠",
+    "course": "비전 엔지니어(Vision Engineer)",
+    "course_desc_en": "innovative and futuristic, handling AI vision systems and holographic optics, cyber-tech atmosphere, chibi style, white background",
+    "course_desc_ko": "혁신적이고 미래적인 분위기, AI 비전 시스템과 홀로그램 광학 장치를 다루는 모습, 사이버 테크 감성, 치비 스타일, 흰색 배경",
+    "trait": "강인한"
+  },
+  {
+    "role": "IT&개발",
+    "interest": "동적 콘텐츠",
+    "course": "멀티미디어 엔지니어(Multimedia Engineer)",
+    "course_desc_en": "playful and dynamic, surrounded by audio and video equipment, energetic multimedia atmosphere, chibi style, white background",
+    "course_desc_ko": "장난기 있고 역동적인 분위기, 오디오와 영상 장비에 둘러싸인 모습, 생동감 있는 멀티미디어 감성, 치비 스타일, 흰색 배경",
+    "trait": "역동적인"
+  },
+  {
+    "role": "IT&개발",
+    "interest": "데이터&기획",
+    "course": "데이터 아키텍트(Data Architect)",
+    "course_desc_en": "majestic and structural, designing massive digital data systems with holograms, futuristic architecture atmosphere, chibi style, white background",
+    "course_desc_ko": "위엄 있고 구조적인 분위기, 홀로그램 기반의 거대한 디지털 데이터 시스템을 설계하는 모습, 미래적 건축 감성, 치비 스타일, 흰색 배경",
+    "trait": "질서정연한"
+  },
+  {
+    "role": "IT&개발",
+    "interest": "투자",
+    "course": "핀테크 디벨로퍼(Fintech Developer)",
+    "course_desc_en": "sleek and cyber-inspired, using blockchain icons and futuristic finance apps, modern fintech atmosphere, chibi style, white background",
+    "course_desc_ko": "세련되고 사이버 감성의 분위기, 블록체인 아이콘과 미래형 금융 앱을 사용하는 모습, 현대적인 핀테크 감성, 치비 스타일, 흰색 배경",
+    "trait": "기민한"
+  },
+  {
+    "role": "IT&개발",
+    "interest": "코딩",
+    "course": "소프트웨어 엔지니어(Software Engineer)",
+    "course_desc_en": "focused and modern, coding with multiple monitors and glowing UI interfaces, advanced tech atmosphere, chibi style, white background",
+    "course_desc_ko": "집중력 있고 현대적인 분위기, 다중 모니터와 빛나는 UI 환경에서 코딩하는 모습, 첨단 기술 감성, 치비 스타일, 흰색 배경",
+    "trait": "집중력 있는"
+  },
+  {
+    "role": "재무&경영지원",
+    "interest": "정적 콘텐츠",
+    "course": "IR 콘텐츠 매니저(IR Contents Manager)",
+    "course_desc_en": "organized and reliable, managing documents, reports, spreadsheets, and internal visual materials in a clean office atmosphere, chibi style, soft neutral colors, white background",
+    "course_desc_ko": "체계적이고 신뢰감 있는 분위기, 문서·보고서·스프레드시트·사내 시각 자료를 관리하는 모습, 깔끔한 백오피스 감성, 치비 스타일, 부드러운 뉴트럴 컬러, 흰색 배경",
+    "trait": "신뢰감 있는"
+  },
+  {
+    "role": "재무&경영지원",
+    "interest": "동적 콘텐츠",
+    "course": "사내 커뮤니케이션 매니저(Internal Comms Manager)",
+    "course_desc_en": "friendly and warm, connecting team members with communication icons and speech bubbles, collaborative office atmosphere, chibi style, white background",
+    "course_desc_ko": "친근하고 따뜻한 분위기, 말풍선과 커뮤니케이션 아이콘으로 팀원들을 연결하는 모습, 협업 중심 오피스 감성, 치비 스타일, 흰색 배경",
+    "trait": "사교적인"
+  },
+  {
+    "role": "재무&경영지원",
+    "interest": "데이터&기획",
+    "course": "경영 기획 스페셜리스트(Business Planning Specialist)",
+    "course_desc_en": "strategic and calm, analyzing business roadmaps and financial reports, intelligent corporate atmosphere, chibi style, white background",
+    "course_desc_ko": "전략적이고 차분한 분위기, 비즈니스 로드맵과 재무 보고서를 분석하는 모습, 지적인 기업 감성, 치비 스타일, 흰색 배경",
+    "trait": "전략적인"
+  },
+  {
+    "role": "재무&경영지원",
+    "interest": "투자",
+    "course": "IR 매니저(IR Manager)",
+    "course_desc_en": "charismatic and confident, presenting investment reports and finance charts, trustworthy business atmosphere, chibi style, white background",
+    "course_desc_ko": "카리스마 있고 자신감 넘치는 분위기, 투자 보고서와 재무 차트를 발표하는 모습, 신뢰감 있는 비즈니스 감성, 치비 스타일, 흰색 배경",
+    "trait": "진취적인"
+  },
+  {
+    "role": "재무&경영지원",
+    "interest": "코딩",
+    "course": "시스템 스페셜리스트(System Specialist)",
+    "course_desc_en": "strict and organized, controlling futuristic servers and digital networks, cyber system atmosphere, chibi style, white background",
+    "course_desc_ko": "엄격하고 질서정연한 분위기, 미래형 서버와 디지털 네트워크를 제어하는 모습, 사이버 시스템 감성, 치비 스타일, 흰색 배경",
+    "trait": "완벽주의적인"
+  }
+]
